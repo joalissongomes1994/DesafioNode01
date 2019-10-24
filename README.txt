@@ -1,0 +1,1 @@
+Backend desenvolvido com node.js como base para teste de conhecimentos. Tem como objetivo cadastrar, excluir, editar e listar projetos e tarefas.
